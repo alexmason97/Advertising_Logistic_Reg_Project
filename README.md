@@ -1,0 +1,2 @@
+# Advertising_Logistic_Reg_Project
+This notebook looks at analyzing some user data from a company website. This company is looking to see if a model can be developed to determine if a user has actually clicked on an advertisement or not on the website. There are a few data visualizations and then a logistic model is created to help guide our data for a classification approach to determine a simple "yes" or "no" (or 0 and 1) for if a user did in fact click on an advertisement.
